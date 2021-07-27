@@ -3,6 +3,14 @@
 // Data: 26/07/2021
 // Sistemas Operacionais em Tempo Real
 
+/* Problema:
+ * Produtor / Consumidor
+    • Produtor: Adiciona elementos em um vetor (buffer),
+        bloqueia quando o vetor está cheio
+    • Consumidor: Remove elementos do vetor (buffer),
+        bloqueia quando o vetor está vazio
+ */
+
 #include <stdio.h>
 #include <pthread.h>
 #include <stdbool.h>

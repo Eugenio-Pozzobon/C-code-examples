@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C_code_examples.dir/leitor_escritor.c.obj"
+  "CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj"
   "C_code_examples.exe"
   "C_code_examples.exe.manifest"
   "C_code_examples.pdb"

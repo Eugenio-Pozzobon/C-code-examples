@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/Git/C-code-examples/leitor_escritor.c">
+		<Unit filename="E:/Git/C-code-examples/produtor_consumidor.c">
 			<Option target="C_code_examples"/>
 		</Unit>
 		<Unit filename="E:/Git/C-code-examples/CMakeLists.txt">

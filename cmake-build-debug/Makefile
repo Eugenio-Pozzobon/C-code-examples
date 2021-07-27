@@ -141,32 +141,32 @@ C_code_examples/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/build
 .PHONY : C_code_examples/fast
 
-leitor_escritor.obj: leitor_escritor.c.obj
+produtor_consumidor.obj: produtor_consumidor.c.obj
 
-.PHONY : leitor_escritor.obj
+.PHONY : produtor_consumidor.obj
 
 # target to build an object file
-leitor_escritor.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/leitor_escritor.c.obj
-.PHONY : leitor_escritor.c.obj
+produtor_consumidor.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj
+.PHONY : produtor_consumidor.c.obj
 
-leitor_escritor.i: leitor_escritor.c.i
+produtor_consumidor.i: produtor_consumidor.c.i
 
-.PHONY : leitor_escritor.i
+.PHONY : produtor_consumidor.i
 
 # target to preprocess a source file
-leitor_escritor.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/leitor_escritor.c.i
-.PHONY : leitor_escritor.c.i
+produtor_consumidor.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/produtor_consumidor.c.i
+.PHONY : produtor_consumidor.c.i
 
-leitor_escritor.s: leitor_escritor.c.s
+produtor_consumidor.s: produtor_consumidor.c.s
 
-.PHONY : leitor_escritor.s
+.PHONY : produtor_consumidor.s
 
 # target to generate assembly for a file
-leitor_escritor.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/leitor_escritor.c.s
-.PHONY : leitor_escritor.c.s
+produtor_consumidor.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/produtor_consumidor.c.s
+.PHONY : produtor_consumidor.c.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... C_code_examples
-	@echo ... leitor_escritor.obj
-	@echo ... leitor_escritor.i
-	@echo ... leitor_escritor.s
+	@echo ... produtor_consumidor.obj
+	@echo ... produtor_consumidor.i
+	@echo ... produtor_consumidor.s
 .PHONY : help
 
 

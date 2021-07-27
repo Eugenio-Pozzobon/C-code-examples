@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-E:/Git/C-code-examples/leitor_escritor.c
+E:/Git/C-code-examples/produtor_consumidor.c
 stdio.h
 -
 pthread.h
