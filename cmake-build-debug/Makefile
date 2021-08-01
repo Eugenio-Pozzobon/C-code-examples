@@ -141,32 +141,59 @@ C_code_examples/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/build
 .PHONY : C_code_examples/fast
 
-produtor_consumidor.obj: produtor_consumidor.c.obj
+FSM_TDD.obj: FSM_TDD.c.obj
 
-.PHONY : produtor_consumidor.obj
+.PHONY : FSM_TDD.obj
 
 # target to build an object file
-produtor_consumidor.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj
-.PHONY : produtor_consumidor.c.obj
+FSM_TDD.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj
+.PHONY : FSM_TDD.c.obj
 
-produtor_consumidor.i: produtor_consumidor.c.i
+FSM_TDD.i: FSM_TDD.c.i
 
-.PHONY : produtor_consumidor.i
+.PHONY : FSM_TDD.i
 
 # target to preprocess a source file
-produtor_consumidor.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/produtor_consumidor.c.i
-.PHONY : produtor_consumidor.c.i
+FSM_TDD.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/FSM_TDD.c.i
+.PHONY : FSM_TDD.c.i
 
-produtor_consumidor.s: produtor_consumidor.c.s
+FSM_TDD.s: FSM_TDD.c.s
 
-.PHONY : produtor_consumidor.s
+.PHONY : FSM_TDD.s
 
 # target to generate assembly for a file
-produtor_consumidor.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/produtor_consumidor.c.s
-.PHONY : produtor_consumidor.c.s
+FSM_TDD.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/FSM_TDD.c.s
+.PHONY : FSM_TDD.c.s
+
+FSM_Table.obj: FSM_Table.c.obj
+
+.PHONY : FSM_Table.obj
+
+# target to build an object file
+FSM_Table.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/FSM_Table.c.obj
+.PHONY : FSM_Table.c.obj
+
+FSM_Table.i: FSM_Table.c.i
+
+.PHONY : FSM_Table.i
+
+# target to preprocess a source file
+FSM_Table.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/FSM_Table.c.i
+.PHONY : FSM_Table.c.i
+
+FSM_Table.s: FSM_Table.c.s
+
+.PHONY : FSM_Table.s
+
+# target to generate assembly for a file
+FSM_Table.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_code_examples.dir\build.make CMakeFiles/C_code_examples.dir/FSM_Table.c.s
+.PHONY : FSM_Table.c.s
 
 # Help Target
 help:
@@ -177,9 +204,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... C_code_examples
-	@echo ... produtor_consumidor.obj
-	@echo ... produtor_consumidor.i
-	@echo ... produtor_consumidor.s
+	@echo ... FSM_TDD.obj
+	@echo ... FSM_TDD.i
+	@echo ... FSM_TDD.s
+	@echo ... FSM_Table.obj
+	@echo ... FSM_Table.i
+	@echo ... FSM_Table.s
 .PHONY : help
 
 

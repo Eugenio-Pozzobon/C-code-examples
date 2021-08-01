@@ -75,32 +75,47 @@ include CMakeFiles/C_code_examples.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C_code_examples.dir/flags.make
 
-CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj: CMakeFiles/C_code_examples.dir/flags.make
-CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj: ../produtor_consumidor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Git\C-code-examples\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\C_code_examples.dir\produtor_consumidor.c.obj -c E:\Git\C-code-examples\produtor_consumidor.c
+CMakeFiles/C_code_examples.dir/FSM_Table.c.obj: CMakeFiles/C_code_examples.dir/flags.make
+CMakeFiles/C_code_examples.dir/FSM_Table.c.obj: ../FSM_Table.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Git\C-code-examples\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C_code_examples.dir/FSM_Table.c.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\C_code_examples.dir\FSM_Table.c.obj -c E:\Git\C-code-examples\FSM_Table.c
 
-CMakeFiles/C_code_examples.dir/produtor_consumidor.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_code_examples.dir/produtor_consumidor.c.i"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Git\C-code-examples\produtor_consumidor.c > CMakeFiles\C_code_examples.dir\produtor_consumidor.c.i
+CMakeFiles/C_code_examples.dir/FSM_Table.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_code_examples.dir/FSM_Table.c.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Git\C-code-examples\FSM_Table.c > CMakeFiles\C_code_examples.dir\FSM_Table.c.i
 
-CMakeFiles/C_code_examples.dir/produtor_consumidor.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_code_examples.dir/produtor_consumidor.c.s"
-	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Git\C-code-examples\produtor_consumidor.c -o CMakeFiles\C_code_examples.dir\produtor_consumidor.c.s
+CMakeFiles/C_code_examples.dir/FSM_Table.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_code_examples.dir/FSM_Table.c.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Git\C-code-examples\FSM_Table.c -o CMakeFiles\C_code_examples.dir\FSM_Table.c.s
+
+CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj: CMakeFiles/C_code_examples.dir/flags.make
+CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj: FSM_TDD.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Git\C-code-examples\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\C_code_examples.dir\FSM_TDD.c.obj -c E:\Git\C-code-examples\cmake-build-debug\FSM_TDD.c
+
+CMakeFiles/C_code_examples.dir/FSM_TDD.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_code_examples.dir/FSM_TDD.c.i"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Git\C-code-examples\cmake-build-debug\FSM_TDD.c > CMakeFiles\C_code_examples.dir\FSM_TDD.c.i
+
+CMakeFiles/C_code_examples.dir/FSM_TDD.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_code_examples.dir/FSM_TDD.c.s"
+	C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Git\C-code-examples\cmake-build-debug\FSM_TDD.c -o CMakeFiles\C_code_examples.dir\FSM_TDD.c.s
 
 # Object files for target C_code_examples
 C_code_examples_OBJECTS = \
-"CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj"
+"CMakeFiles/C_code_examples.dir/FSM_Table.c.obj" \
+"CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj"
 
 # External object files for target C_code_examples
 C_code_examples_EXTERNAL_OBJECTS =
 
-C_code_examples.exe: CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj
+C_code_examples.exe: CMakeFiles/C_code_examples.dir/FSM_Table.c.obj
+C_code_examples.exe: CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj
 C_code_examples.exe: CMakeFiles/C_code_examples.dir/build.make
 C_code_examples.exe: CMakeFiles/C_code_examples.dir/linklibs.rsp
 C_code_examples.exe: CMakeFiles/C_code_examples.dir/objects1.rsp
 C_code_examples.exe: CMakeFiles/C_code_examples.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Git\C-code-examples\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable C_code_examples.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Git\C-code-examples\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable C_code_examples.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\C_code_examples.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

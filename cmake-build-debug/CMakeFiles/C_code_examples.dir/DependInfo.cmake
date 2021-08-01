@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "E:/Git/C-code-examples/produtor_consumidor.c" "E:/Git/C-code-examples/cmake-build-debug/CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj"
+  "E:/Git/C-code-examples/cmake-build-debug/FSM_TDD.c" "E:/Git/C-code-examples/cmake-build-debug/CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj"
+  "E:/Git/C-code-examples/FSM_Table.c" "E:/Git/C-code-examples/cmake-build-debug/CMakeFiles/C_code_examples.dir/FSM_Table.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

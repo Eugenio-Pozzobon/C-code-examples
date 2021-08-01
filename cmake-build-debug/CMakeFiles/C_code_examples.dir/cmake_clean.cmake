@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C_code_examples.dir/produtor_consumidor.c.obj"
+  "CMakeFiles/C_code_examples.dir/FSM_TDD.c.obj"
+  "CMakeFiles/C_code_examples.dir/FSM_Table.c.obj"
   "C_code_examples.exe"
   "C_code_examples.exe.manifest"
   "C_code_examples.pdb"
