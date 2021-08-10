@@ -47,13 +47,13 @@ clock_t begin;
 _Noreturn void *escritor() {
     while (true) {
         if((clock()-begin)/CLOCKS_PER_SEC < MAX_WRITE_TIME) {
+            pthread_mutex_lock(&mutexEscritor); // bloqueia o contator para atualização
             if (numEscritores == 0) {
                 // bloqueia leitores caso o estado anterior fosse de zero escritores
                 // afinal de contas a thread foi iniciada o que significa que um escritor irá escrever
                 pthread_mutex_lock(&mutexLeitor);
             }
 
-            pthread_mutex_lock(&mutexEscritor); // bloqueia o contator para atualização
             numEscritores++; // incrementa
             pthread_mutex_unlock(&mutexEscritor); // libera contador
 

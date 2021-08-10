@@ -76,10 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/Git/C-code-examples/FSM_Table.c">
-			<Option target="C_code_examples"/>
-		</Unit>
-		<Unit filename="E:/Git/C-code-examples/cmake-build-debug/FSM_TDD.c">
+		<Unit filename="E:/Git/C-code-examples/leitor_escritor.c">
 			<Option target="C_code_examples"/>
 		</Unit>
 		<Unit filename="E:/Git/C-code-examples/CMakeLists.txt">

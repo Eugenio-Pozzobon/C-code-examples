@@ -6,9 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/Git/C-code-examples/FSM_Table.c
+E:/Git/C-code-examples/leitor_escritor.c
 stdio.h
 -
+pthread.h
+-
+stdbool.h
+-
 stdint.h
+-
+time.h
 -
 
