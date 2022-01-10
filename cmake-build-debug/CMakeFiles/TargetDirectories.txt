@@ -1,3 +1,3 @@
-E:/Git/C-code-examples/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Git/C-code-examples/cmake-build-debug/CMakeFiles/C_code_examples.dir
-E:/Git/C-code-examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Git/C-code-examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Git/C-code-examples/cmake-build-debug/CMakeFiles/C_code_examples.dir
+D:/Git/C-code-examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir

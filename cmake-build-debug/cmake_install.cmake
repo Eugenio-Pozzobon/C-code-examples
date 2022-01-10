@@ -1,4 +1,4 @@
-# Install script for directory: E:/Git/C-code-examples
+# Install script for directory: D:/Git/C-code-examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Git/C-code-examples/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Git/C-code-examples/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

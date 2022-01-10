@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C_code_examples.dir/leitor_escritor.c.obj"
+  "CMakeFiles/C_code_examples.dir/t1estruturaq6.c.obj"
+  "CMakeFiles/C_code_examples.dir/t1estruturaq6.c.obj.d"
   "C_code_examples.exe"
   "C_code_examples.exe.manifest"
   "C_code_examples.pdb"

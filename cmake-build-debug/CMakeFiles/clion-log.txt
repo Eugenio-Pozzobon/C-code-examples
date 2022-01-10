@@ -1,4 +1,4 @@
-C:\Users\eugen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7628.27\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Git\C-code-examples
+C:\Users\eugen\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Git\C-code-examples
 -- Configuring done
 -- Generating done
--- Build files have been written to: E:/Git/C-code-examples/cmake-build-debug
+-- Build files have been written to: D:/Git/C-code-examples/cmake-build-debug
