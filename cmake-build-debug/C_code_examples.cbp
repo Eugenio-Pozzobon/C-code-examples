@@ -11,20 +11,10 @@
 				<Option working_dir="D:/Git/C-code-examples/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="D:/Git/C-code-examples/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C_code_examples">
@@ -34,16 +24,16 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_code_examples"/>
-					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_code_examples"/>
+					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C_code_examples/fast">
@@ -53,30 +43,40 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
-					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_code_examples/fast"/>
-					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_code_examples/fast"/>
+					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Git/C-code-examples/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="D:/Git/C-code-examples/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/eugen/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/mingw/bin/mingw32-make.exe -f &quot;D:/Git/C-code-examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Git/C-code-examples/t1estruturaq6.c">
+		<Unit filename="D:/Git/C-code-examples/rfft-test.c">
 			<Option target="C_code_examples"/>
 		</Unit>
 		<Unit filename="D:/Git/C-code-examples/CMakeLists.txt">

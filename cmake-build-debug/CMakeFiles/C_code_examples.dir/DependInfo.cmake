@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Git/C-code-examples/t1estruturaq6.c" "CMakeFiles/C_code_examples.dir/t1estruturaq6.c.obj" "gcc" "CMakeFiles/C_code_examples.dir/t1estruturaq6.c.obj.d"
+  "D:/Git/C-code-examples/rfft-test.c" "CMakeFiles/C_code_examples.dir/rfft-test.c.obj" "gcc" "CMakeFiles/C_code_examples.dir/rfft-test.c.obj.d"
   )
 
 # Targets to which this target links.

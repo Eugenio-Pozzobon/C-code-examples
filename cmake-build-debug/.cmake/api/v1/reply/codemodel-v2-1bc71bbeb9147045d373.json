@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "C_code_examples::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-C_code_examples-Debug-e721b15034a236959162.json",
+					"jsonFile" : "target-C_code_examples-Debug-098e3c8b9e40d0fa3711.json",
 					"name" : "C_code_examples",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }

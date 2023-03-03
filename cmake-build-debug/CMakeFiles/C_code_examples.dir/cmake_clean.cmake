@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C_code_examples.dir/t1estruturaq6.c.obj"
-  "CMakeFiles/C_code_examples.dir/t1estruturaq6.c.obj.d"
+  "CMakeFiles/C_code_examples.dir/rfft-test.c.obj"
+  "CMakeFiles/C_code_examples.dir/rfft-test.c.obj.d"
   "C_code_examples.exe"
   "C_code_examples.exe.manifest"
   "C_code_examples.pdb"
